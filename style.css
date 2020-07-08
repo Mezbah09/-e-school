@@ -18,8 +18,7 @@ span{
 .card{
     border: none;
     border-radius: 10px;
-    box-shadow: 5px 5px 10px lightgray;
-    height: 10rem
+    box-shadow: 5px 5px 10px lightgray; 
 }
 .book-categories img{
     height: 100px;
