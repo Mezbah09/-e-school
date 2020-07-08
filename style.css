@@ -1,25 +1,80 @@
 .container{
     margin-bottom: 100px;
-    position: absolute;
-    width: 198.07px;
-    height: 59px;
-    left: 212px;
-    top: 30px;
+}
+.button{
+    background: #21B573;
+    color: #fff;
+    border: none;
+    border-radius: 33px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+h6{
+    color: #FD511A;
+}
+span{
+    color: #21B573;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    height: 10rem
+}
+.book-categories img{
+    height: 100px;
+    width: 100px;
+    
+}
+.courses{
+    text-align: center;
+    text-align: center; 
+   margin-bottom: 100px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold; 
+}
+
+
+.icon-image{
+    float: left;
+}
+
+.icon-image img{
+    height: 20px;
+    width: 20px;
+}
+
+.testh1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.testimonial img{
+    height: 200px;
+    width: 200px;
 
 }
-.line {
-    width: 90px;
-    height: 5px;
-    background-image: linear-gradient(#FFBC24,#FFA132);
-    border-radius: 20px;
-    margin:0 auto;
+.cour{
+   text-align: center; 
+   margin-bottom: 100px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
 }
 
-.cat-img {
-    margin-top: 100px;
+.footer-section{
+    background-color: #282531;
+    color: #fff;
+    height:400px;
 }
 
-.cat-img img {
-    padding: 60px 60px;
-    box-shadow: 5px 5px 10px grey;
+footer{
+    color: #fff;
+    background-color: #282531;
+    width: 100%;
+    text-align: center;
+    
+    
+}
+.copy{
+    margin-top: -100px;
 }
